@@ -9,7 +9,7 @@
   "author": "Marcus Kida <marcus@kida.io> (https://www.kida.io)",
   "license": "MIT",
   "dependencies": {
-    "jsdom": "^11.12.0",
+    "jsdom": "^14.0.0",
     "request-promise": "^4.2.4"
   }
 }
